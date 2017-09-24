@@ -1,8 +1,4 @@
-     body {
-     width:100%;
-     margin:0px;
-     padding:0px;
-     }
+     
      .navbar {
         margin-top:0px;
         overflow: hidden;
@@ -24,6 +20,11 @@
         text-decoration: none;
         font-size: 17px;
         }
+     body {
+     width:100%;
+     margin:0px;
+     padding:0px;
+     }
      .navbar a:hover {
         background-color: #ddd;
         color: black;
