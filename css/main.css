@@ -7,8 +7,8 @@
         background-color: #333;
          width:100% !important;
         }
-     .maintitle{
-     background-color: #24292e;    
+     div.maintitle {
+     background-color: rgb(0, 9, 26);    
      }
     .navbar a {
         float: left;
