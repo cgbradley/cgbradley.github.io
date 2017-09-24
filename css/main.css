@@ -7,6 +7,9 @@
         background-color: #333;
          width:100% !important;
         }
+     .maintitle{
+     background-color: #24292e;    
+     }
     .navbar a {
         float: left;
         display: block;
