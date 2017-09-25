@@ -6,6 +6,8 @@
 .divTableRow {
 	display: table-row;
 	margin-top:50px;
+	vertical-align:middle; 
+	text-align:center;
 }
 .divTableHeading {
 	background-color: #EEE;
