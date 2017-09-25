@@ -5,6 +5,7 @@
 }
 .divTableRow {
 	display: table-row;
+	margin-top:50px;
 }
 .divTableHeading {
 	background-color: #EEE;
