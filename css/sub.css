@@ -12,7 +12,12 @@
     transition-duration: 0.4s;
     cursor: pointer;
 }
-
+.container {
+    position: relative;
+    text-align: center;
+    
+    
+}
 
 .gamesbutton:hover {
     <!--background-color: #555555;-->
