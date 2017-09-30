@@ -1,0 +1,13 @@
+.gamesbutton:hover {
+    background-color: #555555;
+    color: white;
+}
+.gamesbutton {
+    background-color: white;
+    color: black;
+    border: 2px solid #555555;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
