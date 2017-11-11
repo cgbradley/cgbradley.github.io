@@ -11,6 +11,12 @@
           color: white;
           font-family: monospace;
      }
+     .page{
+          margin:0 auto;
+          min-width:1000px;
+          max-width:1000px;
+          
+     }
     .navbar a {
         float: left;
         display: block;
