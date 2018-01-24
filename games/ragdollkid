@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+  <title>cgbradley.com</title>
+  
+  <link rel="stylesheet" type="text/css" href="/css/main.css">
+
+</head>
+
+<body>
+    <div class="maintitle"><h1>cgbradley.com</h1></div>
+    <div class="navbar">
+      <a href="../../">Home</a>
+      <a class="active" href="../">Games</a>
+      <a href="../../../images">Images</a>
+      <a href="../../../contact">Contact</a>
+      <a href="../../../about">About</a>
+    </div>
+ 
+  
+  <h1 style="text-align:center;">Ragdoll Game Thing</h1>
+  <center>
+    <iframe frameborder="0" src="https://itch.io/embed-upload/740868?color=333333" allowfullscreen="" width="1024" height="768"></iframe>
+  </center>
+
+</body>
+</html>
