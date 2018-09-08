@@ -1,10 +1,17 @@
-     
      .navbar {
         margin-top:0px;
         overflow: hidden;
         background-color: #333;
          
         }
+@media print{
+     footer {
+     position: fixed;
+     bottom: 0;
+  }
+     
+     
+}
      div.maintitle {
           background-color: rgb(0, 9, 26);
           padding: 40px;
