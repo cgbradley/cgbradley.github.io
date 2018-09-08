@@ -3,7 +3,12 @@
 <html lang="en-US">
 <head>
   <title>cgbradley.com</title>
-  
+  <script src="jquery.js"></script>
+        <script>
+            $(function(){
+                $("#includedHeader").load("header.html");
+            });
+        </script>
   <link rel="stylesheet" type="text/css" href="/css/main.css">
   <link rel="stylesheet" type="text/css" href="/css/sub.css">
   <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -17,7 +22,7 @@
 </head>
 
 <body>
-<link rel="import" href="header.html">    
+<div id="includedContent"></div>
  <!--#config timefmt="%A" --> <!--#echo var="DATE_LOCAL" -->
   <div class="text">
     <center><h1>Welcome!</h1>
