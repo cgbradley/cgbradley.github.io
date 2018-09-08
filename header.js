@@ -21,6 +21,9 @@ else if(page.includes("images")){
 document.write("<div class=\"maintitle\"><h1>cgbradley.com</h1></div><div class=\"navbar\"><a href=\"/ \" >Home</a><a href=\"/games\">Games</a><a class=\"active\" href=\"/images\">Images</a><a href=\"/contact\">Contact</a><a href=\"/about\">About</a></div>");
 alert("images");        
 }
+else if(page.includes("contact")){
+document.write("<div class=\"maintitle\"><h1>cgbradley.com</h1></div><div class=\"navbar\"><a href=\"/ \" >Home</a><a href=\"/games\">Games</a><a href=\"/images\">Images</a><a class=\"active\" href=\"/contact\">Contact</a><a href=\"/about\">About</a></div>");
+}
 else{
   document.write("<div class=\"maintitle\"><h1>cgbradley.com</h1></div><div class=\"navbar\"><a href=\"/ \" >Home</a><a href=\"/games\">Games</a><a href=\"/images\">Images</a><a href=\"/contact\">Contact</a><a href=\"/about\">About</a></div>");
 alert("unknown pg");
