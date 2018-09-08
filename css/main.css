@@ -12,12 +12,12 @@
      
      
 }
-div.maintitle{
+.maintitle{
           background-color: rgb(0, 9, 26);
           padding: 40px;
           color: white;
           font-family: monospace;
-     }
+ }
      #inner{
           margin:0 auto;
           min-width:1000px;
