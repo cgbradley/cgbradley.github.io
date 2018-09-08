@@ -5,12 +5,13 @@
          
         }
 .column{
-    width: 80%;    
+    width: 80%;
+     
 }
      
      
 }
-     div.maintitle {
+maintitle {
           background-color: rgb(0, 9, 26);
           padding: 40px;
           color: white;
@@ -26,7 +27,7 @@
      margin:0 auto;
      width:100%
      }
-    .navbar a {
+.navbar a {
         float: left;
         display: block;
         color: #f2f2f2;
@@ -35,10 +36,11 @@
         text-decoration: none;
         font-size: 17px;
         }
-     body {
+body {
      width:100%;
      margin:0px;
      padding:0px;
+     background-color:#f4f6f9;
      }
      .navbar a:hover {
         background-color: #ddd;
