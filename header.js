@@ -1,4 +1,5 @@
-document.write('\\
+document.write('\
+\
 <div class="maintitle"><h1>cgbradley.com</h1></div>
     <div class="navbar">
       <a class="active" href="">Home</a>
@@ -7,4 +8,5 @@ document.write('\\
       <a href="contact">Contact</a>
       <a href="about">About</a>
 </div>
-\\');
+\
+\');
