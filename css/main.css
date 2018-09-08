@@ -6,7 +6,7 @@
         }
 .column{
     width: 80%;
-     
+    margin:auto;
 }
      
      
@@ -73,8 +73,6 @@ body {
 }
 .text{
      font-size: x-large;
-     margin: 20%;
-     margin-top: 5%;
      font-family: Arial, Helvetica, sans-serif;
 }
 footer{
@@ -85,10 +83,11 @@ footer{
      
 }
 .footer-block{
-     background-color:"#FFFFFF";
+     background-color:#FFFFFF;
      color:#f2f2f2;
      text-align: center;
      padding: 10px;
      margin-top:40%;
+     margin:auto;
      
 }
