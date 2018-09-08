@@ -94,3 +94,6 @@ footer{
      margin-left:auto;
      margin-right:auto;
 }
+a.footer:visited{
+     color:#0366d6;
+}
