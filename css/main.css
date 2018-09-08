@@ -80,7 +80,9 @@ footer{
      font-size: small;
      font-family: Arial, Helvetica, sans-serif;
      
-     
+.center-text{
+     text-align:center;
+     }
      
 }
 .footer-block{
