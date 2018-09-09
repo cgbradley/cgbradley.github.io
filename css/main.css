@@ -40,9 +40,9 @@ body {
      min-height:100%;
      background-color:#f4f6f9;
      }
-html{ height:100%; margin:0; }
+html,body{ height:100%; margin:0; }
 
-footer{ height:50px;  }
+
 footer{
   margin-top:auto; 
 }
